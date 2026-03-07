@@ -6,7 +6,7 @@
 |Youssef Ben Lassoued | 361372|
 | Ismail Hammammi| 357804|
 
-[Milestone 1](https://github.com/Hassene26/Bakhano-Data-Viz/blob/master/Milestone%201.md) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
+[Milestone 1](https://github.com/com-480-data-visualization/Bakhano-Data-Viz/blob/master/Milestone%201.md) • [Milestone 2](#milestone-2) • [Milestone 3](#milestone-3)
 
 ## Milestone 1 (20th March, 5pm)
 
