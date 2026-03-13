@@ -47,11 +47,17 @@ The target audience includes tech and job seekers, economists, HR and policy pro
 
 - **U.S. Information sector openings rate (JTU5100JOR):** Right-skewed post-2020. Peaked ~7–8% during 2021–2022 tech boom. Sharp decline in 2025: Sep 2025: 6.7%, Oct: 4.0%, Nov: 2.5%, Dec: 2.9% (latest). Recent trend: downward (from highs to below historical norms). Range post-2020: ~2–8%; mean ~4–5% (estimated from trends).
 
+![Hiring trends](./Openings.png)
+
 - **U.S. Information sector layoffs rate (JTU5100LDR):** Zero-inflated baseline (~1–1.5%). Spikes in 2020 (~4% COVID). Low during 2021–2022 boom, then elevated 2023–2025. Recent: Aug–Dec 2025 mostly 1.4–1.7% (Dec 2025: 1.7%). Mean post-2020 ~1.4–1.6%; recent uptick signals correction.
+
+![Hiring trends](./Layoffs.png)
 
 - **Correlations & outliers:** Openings & layoffs negatively correlated (~ –0.4 to –0.5 within sector); openings amplify broader U.S. trends but with extremes. Key outliers: 2021–2022 high openings (demand boom), 2025 declining openings + rising layoffs (AI/restructuring signal). Sector often decouples from OECD averages (e.g., U.S. hires steady while sector contracts).
 
-Here are some interesting graphs related to these numbers :
+Here is another interesting graph that describes the evolution of job postings on the Indeed platform : 
+![Hiring trends](./Indeed.png)
+
 
 **Planned visuals (placeholders):**
 - Time-series overlay: OECD countries + U.S. sector openings/layoffs (multi-line chart)
